@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\avi\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\avi\Downloads\CustomListFragment1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_27e102b9d1468eafcc4e7c0880596ec29be3835a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\avi\Downloads\CustomListFragment1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9c97c527808034b770c2f6b30d6c042f71b1ee00">
+        <dex dex="C:\Users\avi\Downloads\CustomListFragment1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3b94ac194dfa5911d19eec1607e494c47130670f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\avi\Downloads\CustomListFragment1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="cd1b48d2aa6d0dd080fa2b5dbfbf8943f0344d3a">
+        <dex dex="C:\Users\avi\Downloads\CustomListFragment1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_06aab3e3b695ddaa3f2b6f26e1d0b5daace5f7ca\classes.dex" />
+    </item>
+
+</items>

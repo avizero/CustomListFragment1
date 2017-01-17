@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\avi\\Downloads\\CustomListFragment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\home.png",
+        "source": "C:\\Users\\avi\\Downloads\\CustomListFragment1\\app\\src\\main\\res\\drawable-hdpi\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\avi\\Downloads\\CustomListFragment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\os.png",
+        "source": "C:\\Users\\avi\\Downloads\\CustomListFragment1\\app\\src\\main\\res\\drawable-hdpi\\os.png"
+    },
+    {
+        "merged": "C:\\Users\\avi\\Downloads\\CustomListFragment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pencil.png",
+        "source": "C:\\Users\\avi\\Downloads\\CustomListFragment1\\app\\src\\main\\res\\drawable-hdpi\\pencil.png"
+    },
+    {
+        "merged": "C:\\Users\\avi\\Downloads\\CustomListFragment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tool.png",
+        "source": "C:\\Users\\avi\\Downloads\\CustomListFragment1\\app\\src\\main\\res\\drawable-hdpi\\tool.png"
+    },
+    {
+        "merged": "C:\\Users\\avi\\Downloads\\CustomListFragment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\avi\\Downloads\\CustomListFragment1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\avi\\Downloads\\CustomListFragment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\about.png",
+        "source": "C:\\Users\\avi\\Downloads\\CustomListFragment1\\app\\src\\main\\res\\drawable-hdpi\\about.png"
+    },
+    {
+        "merged": "C:\\Users\\avi\\Downloads\\CustomListFragment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\app.png",
+        "source": "C:\\Users\\avi\\Downloads\\CustomListFragment1\\app\\src\\main\\res\\drawable-hdpi\\app.png"
+    }
+]

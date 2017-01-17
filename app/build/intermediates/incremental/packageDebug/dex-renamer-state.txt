@@ -1,0 +1,7 @@
+#Tue Jan 17 22:33:52 MSK 2017
+base.0=C\:\\Users\\avi\\Downloads\\CustomListFragment1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_3b94ac194dfa5911d19eec1607e494c47130670f
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\avi\\Downloads\\CustomListFragment1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_06aab3e3b695ddaa3f2b6f26e1d0b5daace5f7ca\\classes.dex
+base.1=C\:\\Users\\avi\\Downloads\\CustomListFragment1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_06aab3e3b695ddaa3f2b6f26e1d0b5daace5f7ca
+file.0=C\:\\Users\\avi\\Downloads\\CustomListFragment1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_3b94ac194dfa5911d19eec1607e494c47130670f\\classes.dex

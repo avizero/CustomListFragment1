@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\avi\\Downloads\\CustomListFragment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\os.png",
+        "source": "C:\\Users\\avi\\Downloads\\CustomListFragment1\\app\\src\\main\\res\\drawable-mdpi\\os.png"
+    },
+    {
+        "merged": "C:\\Users\\avi\\Downloads\\CustomListFragment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\avi\\Downloads\\CustomListFragment1\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\avi\\Downloads\\CustomListFragment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\app.png",
+        "source": "C:\\Users\\avi\\Downloads\\CustomListFragment1\\app\\src\\main\\res\\drawable-mdpi\\app.png"
+    },
+    {
+        "merged": "C:\\Users\\avi\\Downloads\\CustomListFragment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\about.png",
+        "source": "C:\\Users\\avi\\Downloads\\CustomListFragment1\\app\\src\\main\\res\\drawable-mdpi\\about.png"
+    },
+    {
+        "merged": "C:\\Users\\avi\\Downloads\\CustomListFragment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\tutorials.png",
+        "source": "C:\\Users\\avi\\Downloads\\CustomListFragment1\\app\\src\\main\\res\\drawable-mdpi\\tutorials.png"
+    },
+    {
+        "merged": "C:\\Users\\avi\\Downloads\\CustomListFragment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\home.png",
+        "source": "C:\\Users\\avi\\Downloads\\CustomListFragment1\\app\\src\\main\\res\\drawable-mdpi\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\avi\\Downloads\\CustomListFragment1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\tool.png",
+        "source": "C:\\Users\\avi\\Downloads\\CustomListFragment1\\app\\src\\main\\res\\drawable-mdpi\\tool.png"
+    }
+]
